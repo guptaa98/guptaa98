@@ -1,3 +1,6 @@
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98)
+
 # About Me 
 * IT 3rd Year undergradate at IIIT Una
 * Currently exploring field of Data Science 
@@ -13,7 +16,6 @@
 * **Library Management System** - http://library-management-system.herokuapp.com/
 * **Microsoft Azure Nanodegreee Projects** - https://github.com/guptaa98/Microsoft_Azure_Nanodegree_Projects
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98)
 
 # Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/guptaa98/count.svg)
