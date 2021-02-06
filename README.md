@@ -14,14 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me 
+* IT 3rd Year undergradate at IIIT Una
+* Currently exploring field of Data Science 
+* Primary Coding Language - C++
+* 
+* From UP,India
 # Contacts
-**LinkedIn** https://www.linkedin.com/in/prashastigupta78/
-**Email** prashasti708@gmail.com
+* **LinkedIn** https://www.linkedin.com/in/prashastigupta78/
+* **Email** prashasti708@gmail.com
+
+# Projects Highlights
+* **Library Management System** - http://library-management-system.herokuapp.com/
+* **Microsoft Azure Nanodegreee Projects** - https://github.com/guptaa98/Microsoft_Azure_Nanodegree_Projects
 
 
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98)
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/guptaa98)
 
 
 # Profile Views
