@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 * **Library Management System** - http://library-management-system.herokuapp.com/
 * **Microsoft Azure Nanodegreee Projects** - https://github.com/guptaa98/Microsoft_Azure_Nanodegree_Projects
 
-
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=guptaa98&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/guptaa98)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98)
 
 # Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/guptaa98/count.svg)
