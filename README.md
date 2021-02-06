@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning - Web Sc
+- 🌱 I’m currently learning - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 * IT 3rd Year undergradate at IIIT Una
 * Currently exploring field of Data Science 
 * Primary Coding Language - C++
-* 
+* Technical Content Blogging on Medium.com 
 * From UP,India
+
 # Contacts
 * **LinkedIn** https://www.linkedin.com/in/prashastigupta78/
 * **Email** prashasti708@gmail.com
