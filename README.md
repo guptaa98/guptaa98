@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Contacts
+## LinkedIn
+https://www.linkedin.com/in/prashastigupta78/
+## Email
+prashasti708@gmail.com
+
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98)
