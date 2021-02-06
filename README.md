@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Contacts
-## LinkedIn
-https://www.linkedin.com/in/prashastigupta78/
-## Email
-prashasti708@gmail.com
+**LinkedIn** https://www.linkedin.com/in/prashastigupta78/
+**Email** prashasti708@gmail.com
 
 
 
@@ -26,5 +24,5 @@ prashasti708@gmail.com
 ![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98)
 
 
-## Profile Views
+# Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/guptaa98/count.svg)
