@@ -12,7 +12,7 @@
 * **LinkedIn** https://www.linkedin.com/in/prashastigupta78/
 * **Email** prashasti708@gmail.com
 
-# Projects Highlights
+# Projects 
 * **Library Management System** - http://library-management-system.herokuapp.com/
 * **Microsoft Azure Nanodegreee Projects** - https://github.com/guptaa98/Microsoft_Azure_Nanodegree_Projects
 
