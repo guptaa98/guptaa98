@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * **Microsoft Azure Nanodegreee Projects** - https://github.com/guptaa98/Microsoft_Azure_Nanodegree_Projects
 
 
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/guptaa98)
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=guptaa98&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/guptaa98)
 
 
 # Profile Views
