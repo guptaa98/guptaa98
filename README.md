@@ -1,5 +1,5 @@
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98)
+![Github stats](https://github-readme-stats.vercel.app/api?username=guptaa98) 
 
 # About Me 
 * IT 3rd Year undergradate at IIIT Una
