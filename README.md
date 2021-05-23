@@ -4,9 +4,9 @@
 # About Me 
 * IT 3rd Year undergradate at IIIT Una
 * Currently exploring field of Data Science and Web Development
-* Primary Coding Language - C++
 * Technical Content Blogging on Medium.com 
 * Nanodegree Graduate for Machine Learning with Microsoft Azure at Udacity
+* Tech Stack - C++, Python, HTML, CSS, JavaScript, SQL, React.js, ES6, Machine Learning, Beautiful Soup, Selenium
 
 # Contacts
 * **LinkedIn** https://www.linkedin.com/in/prashastigupta78/
