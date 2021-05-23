@@ -6,7 +6,7 @@
 * Currently exploring field of Data Science and Web Development
 * Primary Coding Language - C++
 * Technical Content Blogging on Medium.com 
-* From UP,India
+* Nanodegree Graduate for Machine Learning with Microsoft Azure at Udacity
 
 # Contacts
 * **LinkedIn** https://www.linkedin.com/in/prashastigupta78/
