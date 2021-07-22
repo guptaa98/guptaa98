@@ -1,6 +1,6 @@
 
   
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! Prashasti here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # About Me 
 * IT 3rd Year undergradate at IIIT Una
 * Currently exploring field of Data Science and Web Development
