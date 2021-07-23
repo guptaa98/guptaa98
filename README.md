@@ -4,7 +4,7 @@
 # About Me 
 * IT 3rd Year undergradate at IIIT Una
 * Currently exploring field of Data Science and Web Development
-* Technical Content Blogging on Medium.com 
+* Technical Content Blogging on Medium.com  
 * Nanodegree Graduate for Machine Learning with Microsoft Azure at Udacity
 
 # Tech Stacks
@@ -13,8 +13,11 @@
 <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> <img src = "https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whit" />
 
 # Contacts
-* **LinkedIn** https://www.linkedin.com/in/prashastigupta78/
 * **Email** prashasti708@gmail.com
+
+# Links
+* **LinkedIn** https://www.linkedin.com/in/prashastigupta78/
+* **Medium** https://medium.com/@prashasti708
 
 # Project Highlights
 * **Library Management System** - http://library-management-system.herokuapp.com/
