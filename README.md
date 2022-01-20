@@ -3,7 +3,7 @@
 # Hello, folks! Prashasti here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # About Me 
 * IT Final Year undergradate at IIIT Una
-* Currently exploring field of Data Science and Web Development
+* Currently exploring field of Data Science
 * Technical Content Blogging on Medium.com  
 * Nanodegree Graduate for Machine Learning with Microsoft Azure at Udacity
 
