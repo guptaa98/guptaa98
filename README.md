@@ -3,7 +3,8 @@
 # Hello, folks! Prashasti here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # About Me 
 * IT Final Year undergradate at IIIT Una
-* Currently exploring field of Data Science
+* Well versed with concepts of Machine Learning
+* Exploring Deep Learning 
 * Technical Content Blogging on Medium.com  
 * Nanodegree Graduate for Machine Learning with Microsoft Azure at Udacity
 
@@ -20,7 +21,8 @@
 * **Medium** https://medium.com/@prashasti708
 
 # Project Highlights
-* **Library Management System** - http://library-management-system.herokuapp.com/
+* **Quora Question Pairs** - https://github.com/guptaa98/ML_DL_Case-Studies/blob/main/Quora%20Question%20Pairs.ipynb
+* **Personalized Cancer Diagnosis** - https://github.com/guptaa98/ML_DL_Case-Studies/blob/main/personalized-cancer-diagnosis.ipynb
 * **Microsoft Azure Nanodegreee Projects** - https://github.com/guptaa98/Microsoft_Azure_Nanodegree_Projects
 * **ConvoCare** - https://convocare-webapp.herokuapp.com/
 
